@@ -60,8 +60,7 @@ ElectronJS, NodeJS, HTML, CSS, JavaScript and SQLite
 - Built a seamless pipeline that processes PDFs and prepares them for integration into Anki, enabling smarter, automated revision methods for competitive exams.
 - Currently working on improving symbol recognition, as certain symbols are not being correctly interpreted, aiming to enhance the accuracy and versatility of the tool.
 
-Other Interests: [Goodreads](https://www.goodreads.com/user/show/181775885-thamizh)  [IMDb](https://www.imdb.com/user/ur187987901/watchlist/) 
-Contact: [LinkedIn](https://www.linkedin.com/in/thamizh-munusamy-80903a287/) 
+[Goodreads](https://www.goodreads.com/user/show/181775885-thamizh)  [IMDb](https://www.imdb.com/user/ur187987901/watchlist/)  [LinkedIn](https://www.linkedin.com/in/thamizh-munusamy-80903a287/) 
 
 <!--
 inspiration:
