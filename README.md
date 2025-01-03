@@ -28,9 +28,7 @@ const thamizhMunusamy = {
         codeEditor: ["Neo Vim", "VS Code"],
         extensionBuilt: ["Zoho Creator (1)", "Zoho Projects (1)"]
     },
-    currentFocus: "I'm currently focused on learning algorithms and data structures, then I'll move on to system architecture.",
-    funFact: "I don’t own any social media accounts, except for LinkedIn (if you consider it social media)."
-    
+    currentFocus: "I'm currently focused on learning algorithms and data structures, then I'll move on to system architecture."    
 };
 ```
 ##### Tools
