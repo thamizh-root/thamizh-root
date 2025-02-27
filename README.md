@@ -27,8 +27,7 @@ const thamizhMunusamy = {
         os: ["Ubuntu 20.04 LTS x11"],
         codeEditor: ["Neo Vim", "VS Code"],
         extensionBuilt: ["Zoho Creator (1)", "Zoho Projects (1)"]
-    },
-    currentFocus: "I'm currently focused on learning algorithms and data structures, then I'll move on to system architecture."    
+    } 
 };
 ```
 ##### Tools
