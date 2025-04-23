@@ -5,11 +5,11 @@
 
 const thamizhMunusamy = {
     pronouns: "He" | "Him",
-    code: ["NodeJS", "Angular", "HTML", "CSS", "JS"],
+    code: ["NodeJS", "Angular", "ReactJS", "HTML", "CSS", "JS"],
     askMeAbout: ["Web Application", "Desktop Application", "React Native Expo"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Nebular UI"],
+            js: ["Angular", "ReactJS"],
         },
         backEnd: {
             js: ["NodeJS", "Express"]
