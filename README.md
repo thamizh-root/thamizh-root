@@ -22,6 +22,8 @@ const thamizhMunusamy = {
         },
         cloudServices: {
             azure: ["Web App", "VM"],
+            digitalOcean: ["droplets"],
+            aws: ["EC2"]
         },
         databases: ["PostgreSQL", "SQLite"],
         os: ["Ubuntu 20.04 LTS x11"],
@@ -35,27 +37,28 @@ const thamizhMunusamy = {
 ##### Summary
 Experienced software developer and team lead with expertise in NodeJS, Angular, ElectronJS and Zoho platforms. Led projects like TrackMyTime and BookMyGigs, optimising performance and developing integrated solutions for time tracking and gig management. Skilled in resolving technical challenges, enhancing app efficiency, and managing customer support.
 ##### Featured Projects
-**BookMyGigs - Team Lead**
-*NodeJS, Angular, Zoho Creator, Zoho Creator JS SDK, Zoho Creator Customer Portal, HTML, CSS and JavaScript*
+BookMyGigs - Team Lead  
+**NodeJS, Angular**, Zoho Creator, Zoho Creator JS SDK, Zoho Creator Customer Portal, HTML, CSS and JavaScript
 - Built a Zoho Creator customer portal application for artists to manage gig bookings, addressing the challenge of handling bookings from multiple sources, including Primetime and their own clients.
 - Developed key features including bookings, contracts, contacts, invoices, services, and gig management, with functionality to clone bookings.
 - Integrated the solution with Zoho CRM, Zoho Creator, Zoho Customer Portal, and a NodeJS server for backend operations.
  
-TrackMyTime Desktop - Team Lead
-ElectronJS, NodeJS, HTML, CSS, JavaScript and SQLite
+TrackMyTime Desktop - Team Lead  
+**ElectronJS**, NodeJS, HTML, CSS, JavaScript and SQLite
 - Developed a time-tracking solution similar to TimeDoctor, which records employees' screens and generates reports on productivity and absenteeism.
 - Created three desktop applications: two extensions for Zoho Creator and Zoho Projects, and one standalone NodeJS server.
 - Resolved performance issues by optimising the desktop app, resulting in a 30% increase in efficiency and improved data syncing capabilities.
 - Published a Zoho Creator application and a Zoho Projects extension on the Zoho Marketplace.
 - Managed customer support, primarily for Zoho Projects, addressing configuration issues in their workspace.
-##### Fun Projects
-**RIOM (Read It For Me)**
-*Node.js and TesseractOCR*
-- Developed an OCR tool to convert scanned PDFs of previous year question papers (in Tamil) into text for Anki, a flashcard app. This tool allows faster revision by bypassing the need for manual transcription.
-- Integrated TesseractOCR with Node.js to automate the extraction process, splitting multi-page PDFs into individual pages for more efficient text recognition.
-- Overcame the challenge of limited OCR tools for Tamil-language PDFs by leveraging TesseractOCR, which offers the best support for this language, thereby significantly reducing preparation time.
-- Built a seamless pipeline that processes PDFs and prepares them for integration into Anki, enabling smarter, automated revision methods for competitive exams.
-- Currently working on improving symbol recognition, as certain symbols are not being correctly interpreted, aiming to enhance the accuracy and versatility of the tool.
+
+Murphy Manpower - Team Lead  
+**React Native**, NodeJS, Zoho Creator
+- Built an employee workforce management solution enabling supervisors and admins to manage people and assign tasks directly from Zoho Creator.
+- Developed a React Native mobile application for supervisors and employees: supervisors can assign tasks, while employees can view and update tasks, including attaching location and image proofs of work.
+- Implemented features for task tracking, employee accountability, and proof-based reporting.
+- Hosted the solution on DigitalOcean with seamless integration between the mobile app and Zoho Creator backend.
+- Led the team in development, managed client communications, handled iOS and Android QA testing, and oversaw billing operations.
+
 
 [Goodreads](https://www.goodreads.com/user/show/181775885-thamizh)  [IMDb](https://www.imdb.com/user/ur187987901/watchlist/)  [LinkedIn](https://www.linkedin.com/in/thamizh-munusamy-80903a287/) 
 
