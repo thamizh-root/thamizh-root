@@ -37,7 +37,7 @@ const thamizhMunusamy = {
 ##### Summary
 Experienced software developer and team lead with expertise in NodeJS, Angular, ElectronJS, ReactJS, React Native and Zoho platforms. Led projects like TrackMyTime and BookMyGigs, optimising performance and developing integrated solutions for time tracking and gig management. Skilled in resolving technical challenges, enhancing app efficiency, and managing customer support.
 
-[Goodreads](https://www.goodreads.com/user/show/181775885-thamizh)  [IMDb](https://www.imdb.com/user/ur187987901/watchlist/)  [LinkedIn](https://www.linkedin.com/in/thamizh-munusamy-80903a287/) 
+[Goodreads](https://www.goodreads.com/user/show/181775885-thamizh)  [IMDb](https://www.imdb.com/user/ur187987901/watchlist/) 
 
 <!--
 inspiration:
