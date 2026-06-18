@@ -4,7 +4,7 @@
 
 ---
 
-### Tools & Side Projects
+### Currently Building
 
 - 🔥 **[neruppu](https://github.com/thamizh-root/neruppu)** — Turn any Android device into a physical security guardian. Modern, offline-first concept rebuild of Haven.
 - 🐕 **[chippiparai](https://github.com/thamizh-root/chippiparai)** — Cross-device notification sync tool that forwards incoming alerts from old Android devices to your primary phone.
